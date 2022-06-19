@@ -14,5 +14,5 @@
 * Созданы 54 [теста](test/)
   + Они обеспечивают 100% покрытие кода ![изображение](https://user-images.githubusercontent.com/28225965/172815272-dfbae456-7f7e-4759-8d4e-bc3cda8df6fc.png)
 * Создан [скрипт](scripts/deploy.js) для публикации контракта в тестовую сеть `Rinkeby`. [Опубликованный контракт](https://rinkeby.etherscan.io/address/0xE9636AC7F89aeC7B6F8402E9aBF911A427F60E07)
-* Созданы [hardhat-task'и](tasks/) для взаимодействия с обубликованным контрактом
+* Созданы [hardhat-task'и](tasks/) для взаимодействия с опубликованным контрактом
 * Приватные ключи от `Alchemy` и `Ethereum` аккаунта вынесены в `.env` файл 
